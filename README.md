@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">- Design Gráfico, Edição de Imagem e Edição de vídeo<br><br>- Ensino de programação para alunos com maior dificuldade</p>
+<p align="left">- Design Gráfico, Edição de Imagem e Edição de vídeo- Ensino de programação para alunos com maior dificuldade</p>
 
 ###
 
