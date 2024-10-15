@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">- Programação de Sistemas Distribuídos<br><br>- Desenvolvimento de Back-End (APIs) com PHP/Laravel, Java/Spring Boot e Python/Django<br><br>- Desenvolvimento Front-End com Bootstrap<br><br>- Desenvolvimento para Mobiles com React Native<br><br>- Analise de Dados/Inteligência Artificial</p>
+<p align="left">- Programação de Sistemas Distribuídos<br>- Desenvolvimento de Back-End (APIs) com PHP/Laravel, Java/Spring Boot e Python/Django<br>- Desenvolvimento Front-End com Bootstrap<br>- Desenvolvimento para Mobiles com React Native<br>- Analise de Dados/Inteligência Artificial</p>
 
 ###
 
