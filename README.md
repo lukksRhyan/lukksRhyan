@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/lucas-rhyan-alves-da-silva/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
   </a>
-  <a href="mailto:lucasrhyanalvesdaslva@gmail.com" target="_blank">
+  <a href="mailto:lucasrhyanalvesdasilva@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="60" alt="gmail logo"  />
   </a>
 </div>
