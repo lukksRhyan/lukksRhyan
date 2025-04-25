@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Desde pequeno apaixonado por computadores e sempre experimentando com eles, comecei a estudar programação com Python no começo de 2021, em setembro do mesmo ano entrei no curso de Sistemas Para Internet no Instituto Federal de Ciência, Tecnologia e Educação do Sertão Pernambucano, Campus Salgueiro, onde pude aprofundar meus conhecimentos e obter experiências transformadoras.</p>
+<p align="left">Alguém que prefere criar a esperar que criem</p>
 
 ###
 
