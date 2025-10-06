@@ -13,8 +13,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -26,11 +24,11 @@
 
 ###
 
-<h1 align="left">Quem eu sou</h1>
+<h1 align="left">O que eu faço</h1>
 
 ###
 
-<p align="left">Alguém que prefere criar a esperar que criem</p>
+<p align="left">Passo horas criando ferramentas para economizar minuto</p>
 
 ###
 
@@ -38,7 +36,7 @@
 
 ###
 
-<h3 align="left">Principais experiências que eu tive durante o curso:</h3>
+<h3 align="left">O que eu sei fazer:</h3>
 
 ###
 
@@ -46,21 +44,15 @@
 
 ###
 
-<h4 align="left">Além de desenvolvimento de Software eu também pratiquei:</h4>
+<h3 align="left">O que eu gosto de fazer:</h3>
 
 ###
 
-<p align="left">- Design Gráfico, Edição de Imagem e Edição de vídeo- Ensino de programação para alunos com maior dificuldade</p>
+<p align="left">- Aplicativos, mobile ou desktop, automatizando tarefas cotidianas, atualmente com Flutter.</p>
 
 ###
 
-<h2 align="left">Interesses</h2>
 
-###
-
-<p align="left">Fora essas experiências eu gosto de testar outras tecnologias como:<br>- .NET (C#, Xamarin, MAUI, VBA, Blazor)</p>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-rhyan-alves-da-silva/" target="_blank">
