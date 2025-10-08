@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Passo horas criando ferramentas para economizar minuto</p>
+<p align="left">Passo horas criando ferramentas para economizar minutos</p>
 
 ###
 
