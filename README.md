@@ -31,7 +31,7 @@
 <p align="left">Desenvolvimento Mobile/Desktop, mas gosto de fazer qualquer ferramenta que facilite a vida...</p>
 
 <h2> Projetos em destaque</h2>
-[Gerenciador de notas Tigre](https://github.com/lukksRhyan/Gerenciador-de-notas-Tigre.git)
+Gerenciador de notas Tigre
 
 
 <h2 align="left">Experiências</h2>
