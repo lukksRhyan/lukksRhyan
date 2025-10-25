@@ -24,15 +24,15 @@
   <img width="6" />
 </div>
 
-###
 
-<h1 align="left">O que eu faço</h1>
+<h2 align="left">O que eu faço</h1>
 
-###
 
-<p align="left">Passo horas criando ferramentas para economizar minutos</p>
+<p align="left">Desenvolvimento Mobile/Desktop, mas gosto de fazer qualquer ferramenta que facilite a vida...</p>
 
-###
+<h2> Projetos em destaque</h2>
+[Gerenciador de notas Tigre](https://github.com/lukksRhyan/Gerenciador-de-notas-Tigre.git)
+
 
 <h2 align="left">Experiências</h2>
 
