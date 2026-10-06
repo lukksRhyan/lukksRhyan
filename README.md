@@ -47,25 +47,28 @@
 ## 🚀 Minhas "Crias"
 
 <div align="center">
-
-<a href="https://play.google.com/store/apps/details?id=com.sertaodev.familyfinances" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/XbuIW088qKs27ZtSfIAEIX9d8qziLdDTIznLPRUvafOCSZm7teXd3EYTgylPfqPt866Ql4GCzFH9sIUr2h82=w240-h480-rw" width="90" height="90" alt="FamilyFinances" />
-  <br/>
-  <b>💰 FamilyFinances</b>
-  <br/>
-  <sub>Gerenciador de finanças para Famílias</sub>
-</a>
-
-<br/><br/>
-
-<a href="https://play.google.com/store/apps/details?id=com.sertaodev.esturdy" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/vfBOHXsSd7zUKgucOvhorc5pWAEUehjFD_5GouvolcJSeAS4QuPl1AO1Wg16o1C179z6A85pLBnbQudivk6b1g=w240-h480-rw" width="90" height="90" alt="Esturdy" />
-  <br/>
-  <b>📚 Esturdy</b>
-  <br/>
-  <sub>Organizador de estudos</sub>
-</a>
-
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://play.google.com/store/apps/details?id=com.sertaodev.familyfinances" target="_blank">
+          <img src="https://play-lh.googleusercontent.com/XbuIW088qKs27ZtSfIAEIX9d8qziLdDTIznLPRUvafOCSZm7teXd3EYTgylPfqPt866Ql4GCzFH9sIUr2h82=w240-h480-rw" width="100" height="100" alt="FamilyFinances" />
+          <br/><br/>
+          <b>💰 FamilyFinances</b>
+          <br/>
+          <sub>Gerenciador de finanças para Famílias</sub>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://play.google.com/store/apps/details?id=com.sertaodev.esturdy" target="_blank">
+          <img src="https://play-lh.googleusercontent.com/vfBOHXsSd7zUKgucOvhorc5pWAEUehjFD_5GouvolcJSeAS4QuPl1AO1Wg16o1C179z6A85pLBnbQudivk6b1g=w240-h480-rw" width="100" height="100" alt="Esturdy" />
+          <br/><br/>
+          <b>📚 Esturdy</b>
+          <br/>
+          <sub>Organizador de estudos</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 > 💡 *Desenvolvimento Mobile/Desktop, mas gosto de fazer qualquer ferramenta que facilite a vida...*
